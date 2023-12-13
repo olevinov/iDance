@@ -32,8 +32,8 @@ data = {
             "text": f"{code} - код подтверждения телефона. iDance"
         }
     ],
-    # "validate": False
-    "validate": True
+    "validate": False
+    #"validate": True
 }
 
 token = "ienzrivl1z6jzeqdu8be0dy7d20q3v87jtga4sdhwmdwug71uwn6r9o0bpoxd3hi"
